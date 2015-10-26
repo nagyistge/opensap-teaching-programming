@@ -3,7 +3,7 @@ exercises of the openSAP course Africa Code Week: Teaching Programming to Young 
 
 In preparation for the [EU Code Week][eu-codeweek], openSAP has realeased a MOOC to [learn how to teach programming to young learners][opensap-africa], based on Scratch. This repo stores the exercises I have done during this course.
 
-They are now [2 main versions of Scratch][scratch-versions]. The version 1.4 is shipped with Ubuntu or Raspbian, it has to be installed and the project files are binary. This is the version I have used (even if binary files is not great with Git). The version 2.0 is web based, and the project files are based on JSON.
+They are now [2 main versions of Scratch][scratch-versions]. The version 1.4 is shipped with Ubuntu or Raspbian, it has to be installed and the project files are binary. This is the version I have used (even if using binary files with Git is not great). The version 2.0 is web based, and the project files are based on JSON.
 
 The exercises are great for a hand-on on Scratch. They can also be proposed to the children during the course.
 
