@@ -5,7 +5,7 @@ In preparation for the [EU Code Week][eu-codeweek], openSAP has realeased a MOOC
 
 They are now [2 main versions of Scratch][scratch-versions]. The version 1.4 is shipped with Ubuntu or Raspbian, it has to be installed and the project files are binary. This is the version I have used (even if using binary files with Git is not great). The version 2.0 is web based, and the project files are based on JSON.
 
-The exercises are great for a hand-on on Scratch. They can also be proposed to the children during the course.
+The exercises are great for a hand-on on Scratch. They can also be proposed to children during a coding workshop.
 
 ## Exercise 1
 
