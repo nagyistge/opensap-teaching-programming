@@ -27,7 +27,11 @@ You can draw geometric figures with Scratch. The third exercise explains the bas
 
 ## Exercise 4
 
+The fourth exercise a game development. In this game, a police car will chase a gangster car. As you have to create the backdrop and the cars by yourself, you will extensively use the editor and will became a true pyxel artist. The main lesson is probably how to plan the development of the game, as a software engineer would do it.
+
 ![alt text][ex4]
+
+Each Scratch and enjoying teaching code to children!
 
 [eu-codeweek]: http://codeweek.eu/
 [opensap-africa]: https://open.sap.com/courses/acw1-1
