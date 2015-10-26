@@ -21,7 +21,7 @@ In this exercise, two sprites have a conversation. The main difference compared 
 
 ## Exercise 3
 
-You can draw geometric figures with Scratch. The third exercise explains the basics to do so. This is a really exciting features, since you draw mathematically interesting patterns, like [tessellation][wikipedia-tessellation] for example. You can also draw famous fractals, like the [Koch Snowflake][wikipedia-koch-snowflake], but many more. Let's call it a first step into computer art.
+You can draw geometric figures with Scratch. The third exercise explains the basics to do so. This is a really exciting features, since you can draw mathematically interesting patterns, like [tessellation][wikipedia-tessellation] for example. You can also draw famous fractals, like the [Koch Snowflake][wikipedia-koch-snowflake], but many more. Let's call it a first step into computer art.
 
 ![alt text][ex3]
 
