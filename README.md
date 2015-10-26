@@ -9,19 +9,19 @@ The exercises are great for a hand-on on Scratch. They can also be proposed to c
 
 ## Exercise 1
 
-The purpose of the first exercise is to create a project with several walking sprites. This is one for the first task that can be done with Scratch. It will learn the basic project organisation and the graphical capabilities of the platform, including the editor.
+The purpose of the first exercise is to create a project with several walking sprites. This is one of the first task that can be done with Scratch. It will learn the basic project organization and the graphical capabilities of the platform, including the editor.
 
 ![alt text][ex1]
 
 ## Exercise 2
 
-In this exercise, two sprites have a conversation. The main difference compared to the previous exercise is that the sprites will interact to each other. That will also learn how to handle events.
+In this exercise, two sprites have a conversation. The main difference compared to the previous exercise is that the sprites will interact with each other. That will also learn how to handle events.
 
 ![alt text][ex2]
 
 ## Exercise 3
 
-You can draw geometric figures with Scratch. The third exercise explains the basics to do so. This is a really exciting features, since you can draw mathematically interesting patterns, like [tessellation][wikipedia-tessellation] for example. You can also draw famous fractals, like the [Koch Snowflake][wikipedia-koch-snowflake], but many more. Let's call it a first step into computer art.
+You can draw geometric figures with Scratch. The third exercise explains the basics to do so. This is a really exciting features, since you can draw mathematically interesting patterns, like [tessellation][wikipedia-tessellation] for example. You can also draw famous fractals, like the [Koch Snowflake][wikipedia-koch-snowflake], but also many more. Let's call it a first step into computer art.
 
 ![alt text][ex3]
 
