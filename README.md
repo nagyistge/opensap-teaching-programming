@@ -31,7 +31,7 @@ The fourth exercise a game development. In this game, a police car will chase a 
 
 ![alt text][ex4]
 
-Each Scratch and enjoying teaching code to children!
+Enjoy Scratch and enjoy teaching code to children!
 
 [eu-codeweek]: http://codeweek.eu/
 [opensap-africa]: https://open.sap.com/courses/acw1-1
