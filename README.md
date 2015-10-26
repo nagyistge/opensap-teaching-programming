@@ -1,5 +1,5 @@
 # opensap-teaching-programming
-openSAP exercises of the course Africa Code Week: Teaching Programming to Young Learners
+exercises of the openSAP course Africa Code Week: Teaching Programming to Young Learners
 
 In preparation for the [EU Code Week][eu-codeweek], openSAP has realeased a MOOC to [learn how to teach programming to young learners][opensap-africa], based on Scratch. This repo stores the exercises I have done during this course.
 
